@@ -1,5 +1,8 @@
 _repo: Sunshine-and-Storm-in-Rhodesia-Being-a-Narrative-of-Events-in-Matabeleland-Both-Before-and-Du__52132
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52132-h/images/cover.jpg
 creator:
   author:
     agent_name: Selous, Frederick Courteney
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '7619'
     url: http://www.gutenberg.org/2009/agents/7619
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52132#Sunshine-and-Storm-in-Rhodesia-Being-a-Narrative-of-Events-in-Matabeleland-Both-Before-and-Du_
 gutenberg_issued: '2016-05-22'
 gutenberg_type: Text
 identifiers:
